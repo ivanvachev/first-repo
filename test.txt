@@ -2,6 +2,3 @@ Change here - with Tortoise...
 Updating with new line here
 New file - OK
 
-Updating with Bash…
-
-
